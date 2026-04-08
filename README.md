@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 About Me
-- 🔧 Background in **heavy vehicle trailer repairs** (strong real-world troubleshooting)  
+- 🔧 Background in **automotive reapairs** (strong real-world troubleshooting)  
 - 💻 Focused on **full-stack development**  
 - 📱 Building a **4x4 driver app** connecting people across NZ  
 - 🔐 Interested in **cybersecurity & scalable systems**  
