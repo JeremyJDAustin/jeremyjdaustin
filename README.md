@@ -64,7 +64,7 @@ A platform designed to bring 4x4 drivers together.
 
 ## 📫 Connect With Me
 <p>
-  <a href="YOUR_LINKEDIN">
+  <a href="https://www.linkedin.com/in/jeremy-austin-ab959b3bb/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
 </p>
