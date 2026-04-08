@@ -72,4 +72,4 @@ A platform designed to bring 4x4 drivers together.
 ---
 
 ## ⚡ Fun Fact
-I enjoy working on both **vehicles and code** — fixing trailers or debugging apps, I like solving problems hands-on.
+I enjoy working on both **vehicles and code** — fixing cars or debugging apps, I like solving problems hands-on.
