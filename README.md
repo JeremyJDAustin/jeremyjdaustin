@@ -19,7 +19,7 @@
 ---
 
 ## 🚧 Current Project
-### 🛻 4x4 Community App (NZ)
+### 🛻 TrailLink (NZ)
 A platform designed to bring 4x4 drivers together.
 
 **Key Features:**
