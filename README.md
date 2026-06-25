@@ -37,12 +37,14 @@ A platform designed to bring 4x4 drivers together.
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
 ### ⚙️ Frameworks & Tools
 <p>
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express&logoColor=white"/>
 </p>
 
