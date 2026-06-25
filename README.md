@@ -36,8 +36,8 @@ A platform designed to bring 4x4 drivers together.
 <p>
   <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Typescript-blue?style=for-the-badge&logo=typescript&logoColor=white"/>
 </p>
 
 ### ⚙️ Frameworks & Tools
@@ -45,7 +45,7 @@ A platform designed to bring 4x4 drivers together.
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
   <img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next&logoColor=white"/>
 </p>
 
 ### 🛠️ Tools & Environment
@@ -53,6 +53,10 @@ A platform designed to bring 4x4 drivers together.
   <img src="https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
   <img src="https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?logo=supabase&logoColor=fff"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"/>
+
+  
 </p>
 
 ---
